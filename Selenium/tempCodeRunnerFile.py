@@ -1,0 +1,1 @@
+By.CSS_SELECTOR, "#id-danh-gia div._39ab-_2vzod > p"
